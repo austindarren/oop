@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18347" started-at="2019-08-16T01:02:59Z" finished-at="2019-08-16T01:03:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18347" started-at="2019-08-16T01:02:59Z" finished-at="2019-08-16T01:03:17Z">
+      <class name="com.qaoops.test.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qaoops.test.LoginTest@57fffcd7]" name="setUp" is-config="true" duration-ms="15911" started-at="2019-08-16T01:02:59Z" finished-at="2019-08-16T01:03:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoging()[pri:1, instance:com.qaoops.test.LoginTest@57fffcd7]" name="verifyLoging" duration-ms="1438" started-at="2019-08-16T01:03:15Z" finished-at="2019-08-16T01:03:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoging -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qaoops.test.LoginTest@57fffcd7]" name="tearDown" is-config="true" duration-ms="934" started-at="2019-08-16T01:03:16Z" finished-at="2019-08-16T01:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qaoops.test.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
